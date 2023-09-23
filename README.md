@@ -7,7 +7,7 @@ Saya seorang siswa jurusan Pengembangan Perangkat Lunak & Gim di SMK Wikrama Kot
 
 Saya lebih menggemari Bahasa Pemrogramman Berbasis Backend, seperti PHP, C++ dan GO;
 
-Saat ini saya sedang menggeluti Framework PHP, yaitu Laravel;
+Saat ini saya sedang menggeluti salah satu Framework PHP, yaitu Laravel;
 
 Jika kamu tertarik berkenalan denganku, silahkan ikuti Akun [LinkedIn](https://www.linkedin.com/in/reyhan-aulia-treeana-24063a25b/)ku ya
 
